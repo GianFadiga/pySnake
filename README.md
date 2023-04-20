@@ -8,18 +8,18 @@ The game features a snake that moves around the screen, trying to eat as many ap
 The game ends after the maxsize or by closing it on keyboard key press `Q`, otherwise, the game will never end by the snake eating eatself.
 
 ## Game Controls
-The snake's direction can be controlled with the arrow keys on the keyboard:
+The snake's direction can be controlled with the arrow keys on the keyboard or by WASD:
 
-Up arrow key: move the snake up
-
-
-Right arrow key: move the snake right
+Up arrow key or W: move the snake up
 
 
-Down arrow key: move the snake down
+Right arrow key or D: move the snake right
 
 
-Left arrow key: move the snake left
+Down arrow key or S: move the snake down
+
+
+Left arrow key or A: move the snake left
 
 # How to Run the Game
 
