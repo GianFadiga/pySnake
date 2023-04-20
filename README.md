@@ -19,6 +19,7 @@ Left arrow key: move the snake left
 
 ## Dependencies
 In order to run the game, you need to have Pygame installed on your computer. You can install it using pip with the following command:
+
 `pip install pygame`
 
 ## Running
