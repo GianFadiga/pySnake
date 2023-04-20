@@ -25,4 +25,4 @@ In order to run the game, you need to have Pygame installed on your computer. Yo
 ## Running
 After installing Pygame, you can run the game by executing the `py_snake.py` file in a Python environment.
 
-## 👨‍💻 Developed by GianFadiga as PYGAME learging project.
+## 👨‍💻 Developed by GianFadiga as PYGAME learning project.
