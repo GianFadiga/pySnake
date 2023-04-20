@@ -11,8 +11,14 @@ The game ends after the maxsize or by closing it on keyboard key press `Q`, othe
 The snake's direction can be controlled with the arrow keys on the keyboard:
 
 Up arrow key: move the snake up
+
+
 Right arrow key: move the snake right
+
+
 Down arrow key: move the snake down
+
+
 Left arrow key: move the snake left
 
 # How to Run the Game
