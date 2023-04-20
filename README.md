@@ -1,5 +1,5 @@
 # Snake Game in Python
-This is a simple snake game made with Pygame for educational purposes. It was created by Gianlucca Fadiga based on a tutorial by Programador Sagaz (YouTube tutorial link).
+This is a simple snake game made with Pygame for educational purposes. It was created by Gianlucca Fadiga based on a tutorial by "Programador Sagaz".
 
 The purpose of this project is to help Gianlucca Fadiga learn Git and GitHub, and to practice using branches and commits.
 
